@@ -1,0 +1,207 @@
+#maindiv
+    {
+        margin: auto;
+        width: 1250px;
+    }
+    #info
+    {
+        background:blue ;
+        height: 30px;
+        font-weight: bolder;
+        color:red;
+        
+    }
+    #header
+    {
+        background: white;
+        height: 310px;
+    }
+    #menu
+    {
+        background:darkslategray;
+        height: 30px;
+        font-size:smaller;
+    }
+    #content
+    {
+        background: antiquewhite;
+        height: auto;
+    }
+    
+    #clogo
+    {
+        background:black ;
+        height: 105px;
+
+    }
+    #clogo1
+    {
+        background: white;
+        height: 100px;
+        margin-top: 15px;
+    }
+    #cimage
+    {
+        height: 100px;
+        
+    }
+    #footer1
+    {
+        background:darkslategray;
+        height:300px;
+    }
+    #footera
+    {
+        background:darkslategray;
+        height:300px;
+        width: 420px;
+        margin-right: auto;
+    }
+    #footerb
+    {
+        background:darkslategray;
+        height:300px;
+        width: 400px;
+        margin-right: 300 px;
+        margin-left: 450px;
+        margin-top: -300px;
+    
+}
+    #footerc
+    {
+        background:darkslategray;
+        height:300px;
+        width: 400px;
+        margin-left: 850px;
+        margin-top: -300px;
+    }
+    #footer
+    {
+        background:darkslategray;
+        height: 30px;
+
+    }
+    #logo1
+    {
+        height: 110px;
+        width: 110px;
+        margin-top: 20px;
+        margin-left: 20px;
+    
+    
+    }
+    #logo2
+    {
+        height: 110px;
+        width: 110px;
+        margin-top: 20px;
+        margin-left: 950px;
+        
+    
+        
+    }
+    #logo3
+    {
+        height: 110px;
+        width: 110px;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    #logo4
+    {
+        height: 110px;
+        width: 110px;
+        margin-top: 20px;
+        margin-left: 950px;
+    }
+    #logo5
+    {
+        height: 130px;
+        width: 200px;
+        margin-top: -125px;
+        margin-left: 520px;
+    }
+    #logo6
+    {
+        height: 110px;
+        width: 110px;
+        margin-top: 20px;
+        margin-left: 20px;
+    
+    }
+    #head1
+    {
+        color: white;
+        font-size: 26px;
+        font-style: italic;
+        font-weight: bold;
+    }
+    #head2
+    {
+        color:black;
+        font-size: 26px;
+        font-style: normal;
+        font-weight: bold;
+        text-align: center;
+        margin-top: -220px;
+
+        
+    }
+    #head3
+    {
+        color:whitesmoke;
+        font-size: x-small;
+    }
+    a
+    {
+      color: aliceblue;
+      font-size: 22px;
+      font-weight: bold;
+      text-decoration: none;
+      text-transform: uppercase;
+      margin-right: 60px;
+    }
+    a:hover
+    {
+        color: brown;
+    }
+   
+    
+    /* social media icons styling */
+.social-icons {
+    font-size: 36px;
+    cursor: pointer;
+    background:whitesmoke;
+    height: 100px;
+    width: 420px;
+    margin: top 200px; ;
+
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  .facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .google {
+    background: #dd4b39;
+    color: white;
+  }
+   
+    
